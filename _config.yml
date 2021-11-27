@@ -1,6 +1,6 @@
 # Site settings
 title: Haeretik
-description: 'Haeretik\'s git webpage'
+description: 'Haeretik git webpage'
 url: 'https://haeretik.github.io/'
 baseurl: ""
 # google_analytics: 'UA-XXXXXX-X'
